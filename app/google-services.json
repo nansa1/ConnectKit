@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "922821862682",
+    "firebase_url": "https://connetkit-default-rtdb.firebaseio.com",
+    "project_id": "connetkit",
+    "storage_bucket": "connetkit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922821862682:android:9f2ba2a436ae2fa2db38a3",
+        "android_client_info": {
+          "package_name": "com.Adnan.Connetkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922821862682-k2vki1tpcl3hoikkc9emeq5e2q13q6qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2L3znW0rUbw4y5J5cvgvQ8R6rsZm8ZRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922821862682-k2vki1tpcl3hoikkc9emeq5e2q13q6qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922821862682:android:24f759deaeaca602db38a3",
+        "android_client_info": {
+          "package_name": "com.mianasad.chatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922821862682-k2vki1tpcl3hoikkc9emeq5e2q13q6qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2L3znW0rUbw4y5J5cvgvQ8R6rsZm8ZRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922821862682-k2vki1tpcl3hoikkc9emeq5e2q13q6qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
